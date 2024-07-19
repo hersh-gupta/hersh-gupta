@@ -1,4 +1,4 @@
-# 🌊 Hi, I'm Hersh Gupta!
+# 🌊 Hi, I'm Hersh!
 
 ## 🏛️⚡ Empowering Public Entities with Data and Technology
 
