@@ -7,15 +7,18 @@ I'm passionate about leveraging data science and advanced technology to enhance 
 ### 🏢 Current Role
 I currently work with the Chief Data Officer in the District of Columbia, where I contribute to data-driven initiatives that shape our city's future.
 
-### 🦄 Data Expertise
-I'm a versatile data professional with skills spanning the entire data lifecycle:
+### 🌱 Current Focus
+I'm a versatile public sector data professional with skills spanning the entire data lifecycle. Here's what I'm currently working on and interested in:
 
-- 🏗️ Cloud Data Infrastructure
-- 🔄 ETL, Monitoring, and Data Integrity
-- 📊 Data Strategy, Governance, and Policy
-- 📈 Statistical Analysis and Data Visualization
-- 🗺️ Spatial Data Management and Analytics
-- 🤖 Machine Learning and Artificial Intelligence
+- 🏗️ Building robust cloud data infrastructure
+- 🔄 Implementing ETL pipelines, monitoring systems, and ensuring data integrity
+- 📊 Developing and implementing data strategy, governance, and policy frameworks
+- 📈 Advancing statistical analysis and data visualization techniques
+- 🗺️ Innovating in spatial data management and analytics
+- 🤖 Exploring applications of machine learning and AI in public service delivery
+- 📚 Creating data literacy programs for government employees
+- 🔗 Collaborating on open data initiatives and cross-agency data projects
+- 🔮 Using predictive analytics to enhance government services
 
 ### 💡 My Philosophy
 I believe that data has the power to transform public services and decision-making. By harnessing the potential of data and technology, we can:
@@ -24,13 +27,6 @@ I believe that data has the power to transform public services and decision-maki
 - Improve transparency and accountability
 - Drive evidence-based policy-making
 - Create innovative solutions to complex urban challenges
-
-### 🌱 Current Projects and Interests
-- Exploring the applications of AI in public service delivery
-- Developing data literacy programs for government employees
-- Implementing robust data governance frameworks
-- Collaborating on open data initiatives and cross-agency data projects
-- Advancing the use of machine learning for predictive analytics in government services
 
 ### 🎤 Teaching & Sharing Knowledge
 I'm committed to sharing knowledge and fostering data literacy:
