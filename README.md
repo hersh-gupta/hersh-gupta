@@ -5,7 +5,7 @@
 I'm passionate about leveraging data science and advanced technology to enhance public services, improve government operations, and positively impact the lives of residents and constituents.
 
 ### 🏢 Current Role
-I currently work with the Chief Data Officer in the District of Columbia, where I contribute to data-driven initiatives that shape our city's future.
+I currently work with the Chief Data Officer in the District of Columbia, where I contribute to data-driven initiatives that shape the District's future.
 
 ### 🌱 Current Focus
 I'm a versatile public sector data professional with skills spanning the entire data lifecycle. Here's what I'm currently working on and interested in:
@@ -31,7 +31,7 @@ I believe that data has the power to transform public services and decision-maki
 ### 🎤 Teaching & Sharing Knowledge
 I'm committed to sharing knowledge and fostering data literacy:
 - Guest lecturer at American University and Georgetown University on public data science
-- Chair of DC's Data Literacy Committee
+- Chair of DC's Data Literacy Subcommittee
 - Organizer of government-wide data science meetings and hackathons
 
 ### 🤝 Let's Connect!
