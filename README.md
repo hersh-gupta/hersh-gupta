@@ -5,7 +5,7 @@
 I'm passionate about leveraging data science and advanced technology to enhance public services, improve government operations, and positively impact the lives of residents and constituents.
 
 ### 🏢 Current Role
-I currently work with the Chief Data Officer in the District of Columbia, where I contribute to data-driven initiatives that shape the District's future.
+I most recently worked with the Chief Data Officer in the District of Columbia, where I contributed to data-driven initiatives that shape the District's future. I am currently open to new opportunities!
 
 ### 🌱 Current Focus
 I'm a versatile public sector data professional with skills spanning the entire data lifecycle. Here's what I'm currently working on and interested in:
