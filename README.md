@@ -4,7 +4,8 @@
 I'm passionate about leveraging data science and advanced technology to drive innovation and create meaningful impact through data-driven solutions.
 
 ### 🏢 Current Status
-I most recently worked with the Chief Data Officer in the District of Columbia. Currently open to new opportunities!
+I was previously a data scientist at the Chief Data Officer in the District of Columbia. 
+I'm currently a lead applied scientist with the Responsible AI team at BCG X.
 
 ### 🌱 Focus Areas
 
